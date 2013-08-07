@@ -14,82 +14,84 @@
     <file name="museredirect.js" crc="4231348958" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media"/>
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
     <file name="museutils.js" crc="4210811981" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3812640551" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="webpro.js" crc="4369767" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="form_check.php" crc="368723870" ref="about-me-contact--mckinney-makes-media"/>
-    <file name="form_throttle.php" crc="4280792853" ref="about-me-contact--mckinney-makes-media"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3812640551" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="webpro.js" crc="4369767" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="form_check.php" crc="368723870" ref="about-me-contact--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media"/>
+    <file name="form_throttle.php" crc="4280792853" ref="about-me-contact--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media"/>
     <file name="form-u809.php" crc="180435326" ref="about-me-contact--mckinney-makes-media"/>
     <file name="jquery.watch.js" crc="4199601726" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
-    <file name="pie.js" crc="4147615982" ref="design--mckinney-makes-media"/>
-    <file name="musewpslideshow.js" crc="83045620" ref="design--mckinney-makes-media"/>
-    <file name="jquery.museoverlay.js" crc="3925244142" ref="design--mckinney-makes-media"/>
-    <file name="touchswipe.js" crc="261777990" ref="design--mckinney-makes-media"/>
-    <file name="musewpdisclosure.js" crc="250538392" ref="updates--mckinney-makes-media"/>
+    <file name="pie.js" crc="4147615982" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="musewpslideshow.js" crc="83045620" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="jquery.museoverlay.js" crc="3925244142" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="touchswipe.js" crc="261777990" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="updates--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="form-u2647.php" crc="4169653164" ref="phone>about-me-contact--mckinney-makes-media"/>
+    <file name="jquery.tobrowserwidth.js" crc="4262060562" ref="phone>time-lapse--mckinney-makes-media"/>
   </folder>
   <folder name="images">
-    <file name="mmm-website-assets-bg.png" crc="4169633221" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
+    <file name="mmm-website-assets-bg.png" crc="4169633221" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
     <file name="mmm-website-assets-logo.png" crc="4098302347" ref="index"/>
-    <file name="mmm-website-assets-button-aboutme.png" crc="218727142" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-aboutme2.png" crc="224744196" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-aboutme3.png" crc="3926921783" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-aboutme4.png" crc="420102681" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-design.png" crc="3814467012" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-design2.png" crc="342038672" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-design3.png" crc="69279120" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-design4.png" crc="4006733190" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-mg.png" crc="4117168873" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-mg2.png" crc="499918809" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-mg3.png" crc="250180378" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-mg4.png" crc="441492157" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-tl.png" crc="4111806130" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-tl2.png" crc="64346183" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-tl3.png" crc="4067095414" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-tl4.png" crc="3764920123" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-updates.png" crc="3771730081" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-updates2.png" crc="4020263251" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-updates3.png" crc="170297605" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-updates4.png" crc="4230262244" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-home.png" crc="357819801" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-home2.png" crc="358906655" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-home3.png" crc="2666496" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-home4.png" crc="203245284" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-header.png" crc="3807508761" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-aboutme.png" crc="218727142" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-aboutme2.png" crc="224744196" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-aboutme3.png" crc="3926921783" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-aboutme4.png" crc="420102681" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-design.png" crc="3814467012" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-design2.png" crc="342038672" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-design3.png" crc="69279120" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-design4.png" crc="4006733190" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-mg.png" crc="4117168873" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-mg2.png" crc="499918809" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-mg3.png" crc="250180378" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-mg4.png" crc="441492157" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-tl.png" crc="4111806130" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-tl2.png" crc="64346183" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-tl3.png" crc="4067095414" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-tl4.png" crc="3764920123" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-updates.png" crc="3771730081" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-updates2.png" crc="4020263251" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-updates3.png" crc="170297605" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-updates4.png" crc="4230262244" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-home.png" crc="357819801" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-home2.png" crc="358906655" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-home3.png" crc="2666496" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-home4.png" crc="203245284" ref="index:about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>index:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-header.png" crc="3807508761" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
     <file name="u817-17.png" crc="479674940" ref="about-me-contact--mckinney-makes-media"/>
     <file name="u817-17-r.png" crc="4055231547" ref="about-me-contact--mckinney-makes-media"/>
     <file name="u817-17-m.png" crc="3802471967" ref="about-me-contact--mckinney-makes-media"/>
     <file name="u817-17-fs.png" crc="432182209" ref="about-me-contact--mckinney-makes-media"/>
-    <file name="img_1305.jpg" crc="3979884666" ref="about-me-contact--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-fb.png" crc="416952736" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-footer.png" crc="3736302" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-li.png" crc="3865462747" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-vimeo.png" crc="3758939123" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="mmm-website-assets-button-ig.png" crc="4197927286" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media"/>
-    <file name="appropriate gramophone-01.png" crc="309959580" ref="design--mckinney-makes-media"/>
-    <file name="blank.gif" crc="4208392903" ref="design--mckinney-makes-media"/>
-    <file name="speed-s the name.jpg" crc="4140085579" ref="design--mckinney-makes-media"/>
-    <file name="c-cs giraffe.jpg" crc="3826339825" ref="design--mckinney-makes-media"/>
-    <file name="kg3-23.jpg" crc="305519506" ref="design--mckinney-makes-media"/>
-    <file name="kg32.jpg" crc="4192982150" ref="design--mckinney-makes-media"/>
-    <file name="kg3 iceberg.jpg" crc="109237335" ref="design--mckinney-makes-media"/>
-    <file name="dharma bums matterhorn.jpg" crc="241287919" ref="design--mckinney-makes-media"/>
-    <file name="ghost.jpg" crc="4070513272" ref="design--mckinney-makes-media"/>
-    <file name="mash.jpg" crc="3918103178" ref="design--mckinney-makes-media"/>
+    <file name="img_1305.jpg" crc="3979884666" ref="about-me-contact--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-fb.png" crc="416952736" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-footer.png" crc="3736302" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-li.png" crc="3865462747" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-vimeo.png" crc="3758939123" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm-website-assets-button-ig.png" crc="4197927286" ref="about-me-contact--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:time-lapse--mckinney-makes-media:updates--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>time-lapse--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="appropriate gramophone-01.png" crc="309959580" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="blank.gif" crc="4208392903" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="speed-s the name.jpg" crc="4140085579" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="c-cs giraffe.jpg" crc="3826339825" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="kg3-23.jpg" crc="305519506" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="kg32.jpg" crc="4192982150" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="kg3 iceberg.jpg" crc="109237335" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="dharma bums matterhorn.jpg" crc="241287919" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="ghost.jpg" crc="4070513272" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="mash.jpg" crc="3918103178" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
     <file name="crr-flyer.png" crc="4069095625" ref="design--mckinney-makes-media"/>
     <file name="flood fm 5-01.jpg" crc="3853065720" ref="design--mckinney-makes-media"/>
     <file name="flood fm 6 091812.jpg" crc="391032709" ref="design--mckinney-makes-media"/>
     <file name="flood fm 7-01-01.jpg" crc="3945624205" ref="design--mckinney-makes-media"/>
     <file name="flood fm style 2091712-01.jpg" crc="3977231859" ref="design--mckinney-makes-media"/>
-    <file name="traveling nuker sticker-01.png" crc="497454681" ref="design--mckinney-makes-media"/>
-    <file name="screen shot 2013-05-20 at 105505 pm.png" crc="214423779" ref="design--mckinney-makes-media"/>
+    <file name="traveling nuker sticker-01.png" crc="497454681" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="screen shot 2013-05-20 at 105505 pm.png" crc="214423779" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
     <file name="kavik hoodie 2tone mockup.png" crc="67193778" ref="design--mckinney-makes-media"/>
-    <file name="picture 1.png" crc="4214989724" ref="design--mckinney-makes-media"/>
-    <file name="picture 5.png" crc="173342007" ref="design--mckinney-makes-media"/>
+    <file name="picture 1.png" crc="4214989724" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="picture 5.png" crc="173342007" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
     <file name="knights bus stop-06.jpg" crc="3822961017" ref="design--mckinney-makes-media"/>
-    <file name="postklahoma concept-02.png" crc="3957752595" ref="design--mckinney-makes-media"/>
+    <file name="postklahoma concept-02.png" crc="3957752595" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
     <file name="weber-s rum bar (textured logos).jpg" crc="4228748869" ref="design--mckinney-makes-media"/>
-    <file name="wall movie posters-03.jpg" crc="66335655" ref="design--mckinney-makes-media"/>
-    <file name="wall movie posters-05.jpg" crc="4001956192" ref="design--mckinney-makes-media"/>
-    <file name="wall movie posters-06.jpg" crc="3832771548" ref="design--mckinney-makes-media"/>
+    <file name="wall movie posters-03.jpg" crc="66335655" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="wall movie posters-05.jpg" crc="4001956192" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="wall movie posters-06.jpg" crc="3832771548" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
     <file name="appropriate gramophone-01156x242.jpg" crc="4249628101" ref="design--mckinney-makes-media"/>
     <file name="speed-s the name156x242.jpg" crc="438510858" ref="design--mckinney-makes-media"/>
     <file name="c-cs giraffe156x258.jpg" crc="468920643" ref="design--mckinney-makes-media"/>
@@ -114,33 +116,47 @@
     <file name="wall movie posters-03156x232.jpg" crc="4153241708" ref="design--mckinney-makes-media"/>
     <file name="wall movie posters-05156x232.jpg" crc="69707072" ref="design--mckinney-makes-media"/>
     <file name="wall movie posters-06156x232.jpg" crc="3902378273" ref="design--mckinney-makes-media"/>
-    <file name="loading.gif" crc="3815509949" ref="design--mckinney-makes-media"/>
-    <file name="new mmm-01.jpg" crc="3820184262" ref="updates--mckinney-makes-media"/>
-    <file name="mmm typo logo-01.png" crc="394825997" ref="updates--mckinney-makes-media"/>
+    <file name="loading.gif" crc="3815509949" ref="design--mckinney-makes-media:phone>design--mckinney-makes-media"/>
+    <file name="new mmm-01.jpg" crc="3820184262" ref="updates--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
+    <file name="mmm typo logo-01.png" crc="394825997" ref="updates--mckinney-makes-media:phone>blog--mckinney-makes-media"/>
     <file name="img_0904-u1804.jpg" crc="3765809320" ref="updates--mckinney-makes-media"/>
     <file name="mmmmuse bg-01.png" crc="24517255" ref="phone>index"/>
-    <file name="mmm website logo-02.png" crc="4000513224" ref="phone>index"/>
+    <file name="mmm website logo-02-u2062.png" crc="277510444" ref="phone>index"/>
+    <file name="u2654-17.png" crc="479674940" ref="phone>about-me-contact--mckinney-makes-media"/>
+    <file name="u2654-17-r.png" crc="4055231547" ref="phone>about-me-contact--mckinney-makes-media"/>
+    <file name="u2654-17-m.png" crc="3802471967" ref="phone>about-me-contact--mckinney-makes-media"/>
+    <file name="u2654-17-fs.png" crc="432182209" ref="phone>about-me-contact--mckinney-makes-media"/>
+    <file name="crr-flyer557x361.jpg" crc="4046453251" ref="phone>design--mckinney-makes-media"/>
+    <file name="flood fm 5-01481x361.jpg" crc="490632146" ref="phone>design--mckinney-makes-media"/>
+    <file name="flood fm 6 091812481x361.jpg" crc="3819001088" ref="phone>design--mckinney-makes-media"/>
+    <file name="flood fm 7-01-01481x361.jpg" crc="329476887" ref="phone>design--mckinney-makes-media"/>
+    <file name="flood fm style 2091712-01481x361.jpg" crc="428839894" ref="phone>design--mckinney-makes-media"/>
+    <file name="kavik hoodie 2tone mockup558x361.jpg" crc="3996613136" ref="phone>design--mckinney-makes-media"/>
+    <file name="knights bus stop-06361x361.jpg" crc="151806165" ref="phone>design--mckinney-makes-media"/>
+    <file name="weber-s rum bar (textured logos)361x361.jpg" crc="471240400" ref="phone>design--mckinney-makes-media"/>
+    <file name="img_0904.jpg" crc="526631968" ref="phone>blog--mckinney-makes-media"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="424063707" ref="phone>index"/>
-      <file name="time-lapse--mckinney-makes-media.css" crc="4153093701" ref="phone>time-lapse--mckinney-makes-media"/>
-      <file name="index.css" crc="411018094" ref="phone>index"/>
-      <file name="blog--mckinney-makes-media.css" crc="4153093701" ref="phone>blog--mckinney-makes-media"/>
-      <file name="design--mckinney-makes-media.css" crc="4153093701" ref="phone>design--mckinney-makes-media"/>
-      <file name="motion-graphics--mckinney-makes-media.css" crc="4153093701" ref="phone>motion-graphics--mckinney-makes-media"/>
-      <file name="about-me-contact--mckinney-makes-media.css" crc="4153093701" ref="phone>about-me-contact--mckinney-makes-media"/>
+      <file name="master_a-master.css" crc="114585675" ref="phone>index"/>
+      <file name="time-lapse--mckinney-makes-media.css" crc="1371574" ref="phone>time-lapse--mckinney-makes-media"/>
+      <file name="index.css" crc="4164448948" ref="phone>index"/>
+      <file name="blog--mckinney-makes-media.css" crc="212175111" ref="phone>blog--mckinney-makes-media"/>
+      <file name="design--mckinney-makes-media.css" crc="4019163374" ref="phone>design--mckinney-makes-media"/>
+      <file name="motion-graphics--mckinney-makes-media.css" crc="3858916064" ref="phone>motion-graphics--mckinney-makes-media"/>
+      <file name="about-me-contact--mckinney-makes-media.css" crc="4213768834" ref="phone>about-me-contact--mckinney-makes-media"/>
+      <file name="master_b-master.css" crc="344210293" ref="phone>time-lapse--mckinney-makes-media:phone>motion-graphics--mckinney-makes-media:phone>blog--mckinney-makes-media:phone>about-me-contact--mckinney-makes-media:phone>design--mckinney-makes-media"/>
     </folder>
-    <file name="index.html" crc="4228346986" mt="1375774325213"/>
-    <file name="about-me-contact--mckinney-makes-media.html" crc="130733493" mt="1375764745815"/>
-    <file name="design--mckinney-makes-media.html" crc="4025285792" mt="1375764745865"/>
-    <file name="motion-graphics--mckinney-makes-media.html" crc="3850791519" mt="1375764745920"/>
-    <file name="time-lapse--mckinney-makes-media.html" crc="4213318200" mt="1375764745969"/>
-    <file name="blog--mckinney-makes-media.html" crc="4027472829" mt="1375773483475"/>
+    <file name="index.html" crc="4150161687" mt="1375902279485"/>
+    <file name="about-me-contact--mckinney-makes-media.html" crc="500198293" mt="1375902737364"/>
+    <file name="design--mckinney-makes-media.html" crc="4132936025" mt="1375902932170"/>
+    <file name="motion-graphics--mckinney-makes-media.html" crc="3812952868" mt="1375903066897"/>
+    <file name="time-lapse--mckinney-makes-media.html" crc="445703272" mt="1375903138943"/>
+    <file name="blog--mckinney-makes-media.html" crc="3806368323" mt="1375903369954"/>
   </folder>
   <file name="index.html" crc="491691932" mt="1375900352262"/>
   <file name="about-me-contact--mckinney-makes-media.html" crc="486107754" mt="1375900220482"/>
-  <file name="design--mckinney-makes-media.html" crc="4087731732" mt="1375900220486"/>
+  <file name="design--mckinney-makes-media.html" crc="4087731732" mt="1375902799345"/>
   <file name="motion-graphics--mckinney-makes-media.html" crc="460560386" mt="1375900220487"/>
   <file name="time-lapse--mckinney-makes-media.html" crc="119445819" mt="1375900220489"/>
   <file name="updates--mckinney-makes-media.html" crc="110417121" mt="1375900220490"/>
