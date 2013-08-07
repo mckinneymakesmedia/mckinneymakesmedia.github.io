@@ -3,10 +3,10 @@
     <file name="site_global.css" crc="3837790900"/>
     <file name="master_b-master.css" crc="3795482793" ref="updates--mckinney-makes-media:design--mckinney-makes-media:motion-graphics--mckinney-makes-media:about-me-contact--mckinney-makes-media:time-lapse--mckinney-makes-media"/>
     <file name="master_a-master.css" crc="330113784" ref="index"/>
-    <file name="updates--mckinney-makes-media.css" crc="3869254975" ref="updates--mckinney-makes-media"/>
-    <file name="design--mckinney-makes-media.css" crc="25671030" ref="design--mckinney-makes-media"/>
+    <file name="updates--mckinney-makes-media.css" crc="449532051" ref="updates--mckinney-makes-media"/>
+    <file name="design--mckinney-makes-media.css" crc="4256934066" ref="design--mckinney-makes-media"/>
     <file name="motion-graphics--mckinney-makes-media.css" crc="4191144717" ref="motion-graphics--mckinney-makes-media"/>
-    <file name="about-me-contact--mckinney-makes-media.css" crc="3985681308" ref="about-me-contact--mckinney-makes-media"/>
+    <file name="about-me-contact--mckinney-makes-media.css" crc="216233954" ref="about-me-contact--mckinney-makes-media"/>
     <file name="time-lapse--mckinney-makes-media.css" crc="147793406" ref="time-lapse--mckinney-makes-media"/>
     <file name="index.css" crc="264107227" ref="index"/>
   </folder>
@@ -138,10 +138,10 @@
     <file name="time-lapse--mckinney-makes-media.html" crc="4213318200" mt="1375764745969"/>
     <file name="blog--mckinney-makes-media.html" crc="4027472829" mt="1375773483475"/>
   </folder>
-  <file name="index.html" crc="4144522650" mt="1375776408897"/>
-  <file name="about-me-contact--mckinney-makes-media.html" crc="211578682" mt="1375898160286"/>
-  <file name="design--mckinney-makes-media.html" crc="4197084028" mt="1375898122299"/>
-  <file name="motion-graphics--mckinney-makes-media.html" crc="249953543" mt="1375896933429"/>
-  <file name="time-lapse--mckinney-makes-media.html" crc="362357810" mt="1375896933431"/>
-  <file name="updates--mckinney-makes-media.html" crc="4054746729" mt="1375896933432"/>
+  <file name="index.html" crc="491691932" mt="1375900352262"/>
+  <file name="about-me-contact--mckinney-makes-media.html" crc="486107754" mt="1375900220482"/>
+  <file name="design--mckinney-makes-media.html" crc="4087731732" mt="1375900220486"/>
+  <file name="motion-graphics--mckinney-makes-media.html" crc="460560386" mt="1375900220487"/>
+  <file name="time-lapse--mckinney-makes-media.html" crc="119445819" mt="1375900220489"/>
+  <file name="updates--mckinney-makes-media.html" crc="110417121" mt="1375900220490"/>
 </manifest>
