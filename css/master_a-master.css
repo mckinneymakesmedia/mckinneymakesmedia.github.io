@@ -1,0 +1,176 @@
+#u2071
+{
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: relative;
+}
+
+#u2076
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+	background: transparent url("../images/mmm-website-assets-button-aboutme.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2076:hover
+{
+	background: transparent url("../images/mmm-website-assets-button-aboutme2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2076:active
+{
+	background: transparent url("../images/mmm-website-assets-button-aboutme3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2076.MuseLinkActive
+{
+	background: transparent url("../images/mmm-website-assets-button-aboutme4.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2097
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+	background: transparent url("../images/mmm-website-assets-button-design.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2097:hover
+{
+	background: transparent url("../images/mmm-website-assets-button-design2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2097:active
+{
+	background: transparent url("../images/mmm-website-assets-button-design3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2097.MuseLinkActive
+{
+	background: transparent url("../images/mmm-website-assets-button-design4.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2118
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+	background: transparent url("../images/mmm-website-assets-button-mg.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2118:hover
+{
+	background: transparent url("../images/mmm-website-assets-button-mg2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2118:active
+{
+	background: transparent url("../images/mmm-website-assets-button-mg3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2118.MuseLinkActive
+{
+	background: transparent url("../images/mmm-website-assets-button-mg4.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2139
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+	background: transparent url("../images/mmm-website-assets-button-tl.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2139:hover
+{
+	background: transparent url("../images/mmm-website-assets-button-tl2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2139:active
+{
+	background: transparent url("../images/mmm-website-assets-button-tl3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2139.MuseLinkActive
+{
+	background: transparent url("../images/mmm-website-assets-button-tl4.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2160
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+	background: transparent url("../images/mmm-website-assets-button-updates.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2160:hover
+{
+	background: transparent url("../images/mmm-website-assets-button-updates2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2160:active
+{
+	background: transparent url("../images/mmm-website-assets-button-updates3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2160.MuseLinkActive
+{
+	background: transparent url("../images/mmm-website-assets-button-updates4.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2181
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	position: relative;
+	background: transparent url("../images/mmm-website-assets-button-home.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2181:hover
+{
+	background: transparent url("../images/mmm-website-assets-button-home2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2181:active
+{
+	background: transparent url("../images/mmm-website-assets-button-home3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2181.MuseLinkActive
+{
+	background: transparent url("../images/mmm-website-assets-button-home4.png") no-repeat left top;
+	background-size: contain !important;
+}
+
